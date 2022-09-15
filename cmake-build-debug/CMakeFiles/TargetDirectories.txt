@@ -1,0 +1,3 @@
+/home/tunkert/cpp_lessons/cmake-build-debug/CMakeFiles/001_console_out.cpp.dir
+/home/tunkert/cpp_lessons/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tunkert/cpp_lessons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
